@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/menu_dice_roller" android:title="Dice Roller"></item>
+    <item android:id="@+id/menu_life_counter" android:title="Life Counter"></item>
+    <item android:id="@+id/menu_turn_timer" android:title="Turn Timer"></item>
+
+    <item android:id="@+id/menu_initiative_tracker" android:title="Initiative Tracker"></item>
+</menu>
